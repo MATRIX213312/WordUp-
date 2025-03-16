@@ -1,0 +1,128 @@
+body {
+    background-color: rgb(179, 248, 52)
+}
+
+#block {
+    background-color: aqua;
+    height: 40px;
+    width: 500px;
+    border: solid yellow 3px;
+    border-radius: 10px;
+}
+
+#block2 {
+    background-color: rgb(0, 255, 0);
+    height: 300px;
+    width: 50%;
+    border-radius: 50px;
+    border: solid red 3px;
+}
+
+#block3 {
+    background-color: aquamarine;
+    height: 100%;
+    width: 100%;
+    border-radius: 50px;
+    border: solid blue;
+}
+
+#block4 {
+    background-color: yellow;
+    height: 100%;
+    width: 100%;
+    border-radius: 50px;
+    border: solid orange;
+}
+
+#block5 {
+    background-color: pink;
+    height: 100%;
+    width: 50%;
+    border-radius: 50px;
+    border: solid rgb(255, 0, 255);
+}
+
+#block6 {
+    background-color: rgb(0, 255, 42);
+    height: 100%;
+    width: 50%;
+    border-radius: 50px;
+    border: solid aqua;
+}
+
+#слова {
+    background-color: aqua;
+    border-radius: 70px;
+    border: solid orange;
+}
+
+
+#слова2 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+#слова3 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+#слова4 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+#слова5 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+#слова6 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+#слова7 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+#слова8 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+#слова9 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+
+#слова10 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
+
+
+#слова11 {
+    background-color: antiquewhite;
+    border: solid orange;
+    border-radius: 20%;
+}
